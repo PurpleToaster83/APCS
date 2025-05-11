@@ -1,0 +1,17 @@
+Project Title: 8.07 Picture Lab
+Purpose of Project: to invesitgate pixel values within a picture
+Date: 02/23/2025
+Author: William Van Uitert
+
+
+Post-Mortem Review:
+
+What went Right:
+    I was able to successfully implement all the methods.
+
+What went Wrong:
+    I had some trouble with the reflection algorithms. However, I was able to eventually
+    figure them out.
+
+In the Future:
+    I would like to learn more about how pixels can be manipulated to make cool projects

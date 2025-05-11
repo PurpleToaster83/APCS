@@ -1,0 +1,19 @@
+Project Title: 8.03 Challenge Program
+Purpose of Project: to search for contacts using sorting and searching algorithms
+Date: 02/10/25
+Author: William Van Uitert
+
+
+Post-Mortem Review:
+
+What went Right:
+    I was able to program the search and sort algorithms using the knowledge
+    I gained from the unit.
+
+What went Wrong:
+    I had some trouble implementing the binary search for the relationship.
+    However, I realized that I needed to sort first and that fixed the problem.
+
+
+In the Future:
+    I would like to learn more advanced searching algorithms like BFS, DFS, A*, etc.

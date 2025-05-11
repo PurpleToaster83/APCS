@@ -1,0 +1,20 @@
+Project Title: 8.06 Picture Lab
+Purpose of Project: to invesitgate pixel values within a picture
+Date: 02/20/2025
+Author: William Van Uitert
+
+
+Post-Mortem Review:
+
+What went Right:
+    I was able to easily follow the insturctions after I got everything
+    to initially compile.
+
+What went Wrong:
+    I was having some trouble loading all the files in the correct place.
+    But then I relaized, I needed to change my active directory.
+
+
+In the Future:
+    I would like to use more images and pixels with libraries like
+    OpenCV (or the equivalent for Java).

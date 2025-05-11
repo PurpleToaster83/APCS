@@ -1,0 +1,31 @@
+Project Title: 5.08 Constructing Multiple Objects
+Purpose of Project: 
+Date: 12/04/2024
+Author: William Van Uitert
+
+CarV8
+_________________
+- String name
+- int objectSpace
+- String color
+
+<<Constructor with parameters>>
++ CarV3(String name, int objectSpace, String color)
+
+<<Constructor without parameters>>
++ CarV3()
+
++ String locomotion(double mileTraveled)
++ String locomotion()
++ int remainingSpace(int numObjects)
++ int getObjectSpace()
++ String getColor()
++ String getName()
+
+CarTesterV8
+_____________________________________
+<<Default Constructor>>
+
++ static void main(String[] args)
+CarV8()
+CarV8(parameters)

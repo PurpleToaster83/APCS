@@ -1,0 +1,24 @@
+Project Title: 5.05 Default Constructor
+Purpose of Project: Create a class diagram of the program for assignment 5.05
+Date: 11/27/2024
+Author: William Van Uitert
+
+CarV3
+_________________
++ int objectSpace
+
+<<Constructor>>
++ CarV3()
+
++ String locomotion()
++ int remainingSpace(int numObjects)
+
+CarTesterV3
+_____________________________________
+<<Default Constructor>>
+
++ static void main(String[] args)
++ int objectSpace
++ int originalSpace
++ int numObjects
+

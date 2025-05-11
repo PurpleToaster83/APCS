@@ -1,0 +1,16 @@
+Project Title: 5.8 Constructing Multiple Objects / CarTesterV8.java
+Purpose of Project: to use overloaded methods and classes in a program
+Date: 12/04/2024
+Author: William Van Uitert
+
+
+Post-Mortem Review:
+
+What went Right:
+    I was able to easily implement the getter functions and print them out.
+
+What went Wrong:
+    I had some trouble with correctly implementing private instance variables but eventually figured it out.
+
+In the Future:
+    I would like to try creating a new set of classes other than the car one that I previously have made.
